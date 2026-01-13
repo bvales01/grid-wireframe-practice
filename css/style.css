@@ -14,20 +14,8 @@
     grid-template-columns: 1fr;
     padding: 20px;
     border-radius: 8px;
-}
-
-.main-content {
-    display: grid;
     place-items: center;
 }
-
-.column {
-    display: grid;
-    place-items: center;
-    background-color: #977139;
-    height: 100px;
-}
-
 
 
 @media (min-width: 768px) {
