@@ -32,6 +32,7 @@
     .main-content {
         grid-template-columns: repeat(3, 1fr);
         align-items: center;
+        align-content: end;
     }
 
     
@@ -59,4 +60,5 @@
     place-items: center;
     border-radius: 8px;
     padding: 15px;
+    width: 100%;
 }
